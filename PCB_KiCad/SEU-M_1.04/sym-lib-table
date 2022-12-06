@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "raspi3{slash}4")(type "KiCad")(uri "${KIPRJMOD}/RASPBERRY_PI_4B_+_Samtec_ESP-120-33-G-D/KiCad/RASPBERRY_PI_4B_+_Samtec_ESP-1.kicad_sym")(options "")(descr ""))
+  (lib (name "RyspiZero")(type "KiCad")(uri "${KIPRJMOD}/Raspberry_Pi_Zero_W__v1.3_/KiCad/Raspberry_Pi_Zero_W__v1.3_.kicad_sym")(options "")(descr ""))
+  (lib (name "Devkit4")(type "KiCad")(uri "${KIPRJMOD}/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "RpiPICO")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico-main/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "MeanWell")(type "KiCad")(uri "${KIPRJMOD}/MeanWell/KiCad/SPBW06F-05.kicad_sym")(options "")(descr ""))
+  (lib (name "JK")(type "KiCad")(uri "${KIPRJMOD}/JK.kicad_sym")(options "")(descr ""))
+  (lib (name "MC1488N")(type "Legacy")(uri "${KIPRJMOD}/MC1488N/KiCad/MC1488N.lib")(options "")(descr ""))
+  (lib (name "MC1489N")(type "Legacy")(uri "${KIPRJMOD}/MC1489N/KiCad/MC1489N.lib")(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "EURO-DIN")(type "KiCad")(uri "${KIPRJMOD}/Connectors_IEC_DIN.pretty-master")(options "")(descr ""))
+  (lib (name "Raspi3{slash}4")(type "KiCad")(uri "${KIPRJMOD}/RASPBERRY_PI_4B_+_Samtec_ESP-120-33-G-D/KiCad")(options "")(descr ""))
+  (lib (name "RaspiZero")(type "KiCad")(uri "${KIPRJMOD}/Raspberry_Pi_Zero_W__v1.3_/KiCad")(options "")(descr ""))
+  (lib (name "Din41617")(type "KiCad")(uri "${KIPRJMOD}/common-master/common/DIN41617.pretty")(options "")(descr ""))
+  (lib (name "devkit4")(type "KiCad")(uri "${KIPRJMOD}/ESP32-DEVKITC-32D")(options "")(descr ""))
+  (lib (name "rpiPICO")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico-main/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "MeanWell")(type "KiCad")(uri "${KIPRJMOD}/MeanWell/KiCad")(options "")(descr ""))
+  (lib (name "ÖTelex2")(type "KiCad")(uri "F:/PiTelexPOW/SEU-M_1.04.pretty")(options "")(descr ""))
+  (lib (name "JK")(type "KiCad")(uri "${KIPRJMOD}/JK.pretty")(options "")(descr ""))
+)
